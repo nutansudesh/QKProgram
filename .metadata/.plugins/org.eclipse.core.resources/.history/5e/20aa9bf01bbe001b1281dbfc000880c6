@@ -1,0 +1,13 @@
+
+public class OutputString {
+
+	public static void main(String[] args) {
+		
+		String input="I am an automation engineer";
+		String output="";
+		String[] str = input.split(" ");
+		int l=str.length;
+
+	}
+
+}
